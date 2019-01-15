@@ -1,0 +1,32 @@
+@charset "utf-8";
+/*Desarrollado por Diana*/
+/*Estilos generales*/
+body{
+    font-family:sans-serif;
+    background-color: lightblue;
+}
+section{
+    background-color: white;
+    border:1px black solid;
+    margin:1%;
+    width: 50%;
+    
+}
+/* Clases */
+/* tabla1 */
+#tabla1,#tabla1 td{
+    border:none;
+    padding:1%;
+    
+}
+#tabla1{
+    font-size:150%;
+    margin-left:30%;
+}
+.dias1 td{
+    font-weight: bold;
+    margin: 10%;
+}
+
+
+
